@@ -1,0 +1,63 @@
+.input-group{
+    
+    
+    margin-top: 12px;
+    
+    
+    
+
+}
+.side{
+    overflow: auto !important;
+    height: 130vh;  
+width: 190px;
+
+
+}
+.home:hover{
+    background:gainsboro;
+}
+
+.Short:hover{
+    background:gainsboro;
+}
+.sub:hover{
+    background:gainsboro;
+}
+.library:hover{
+    background:gainsboro;
+}
+.history:hover{
+    background:gainsboro;
+}
+button:hover{
+    background:gainsboro;
+}
+
+
+.input-group input
+{
+    border-radius: 100px 100px 20px  ;
+    
+    margin-left: 300px;
+}
+.card img:hover {
+    cursor: pointer;
+    border: solid gray !important; 
+
+}
+ .card i{
+    color: rgb(255, 68, 68);
+} 
+.card-body small{
+    font-size: xx-small;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -20px;
+    
+}
+
+ 
+
+
+
+
